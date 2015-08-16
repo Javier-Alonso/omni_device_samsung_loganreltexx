@@ -110,11 +110,11 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/sap.conf:system/etc/sap.conf
 
 # FM radio
-PRODUCT_PACKAGES += \
-    qcom.fmradio \
-    libqcomfm_jni \
-    FM2 \
-    FMRecord
+#PRODUCT_PACKAGES += \
+    #qcom.fmradio \
+    #libqcomfm_jni \
+    #FM2 \
+    #FMRecord
 
 # Torch
 PRODUCT_PACKAGES += \

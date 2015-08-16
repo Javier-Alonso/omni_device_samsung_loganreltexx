@@ -1,0 +1,44 @@
+[
+  {
+    "remote": "kostoulhs",
+    "repository": "android_kernel_samsung_msm8930-common",
+    "target_path": "kernel/samsung/msm8930-common",
+    "revision": "cm-11.0_mod"
+  },
+  {
+    "remote": "kostoulhs",
+    "repository": "propietary_vendor_samsung_loganreltexx",
+    "target_path": "vendor/samsung/loganreltexx",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "android-4.4"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "android-4.4" 
+  },
+  {
+    "remote": "kostoulhs",
+    "repository": "android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "kostoulhs",
+    "repository": "android_device_samsung_msm8930-common",
+    "target_path": "device/samsung/msm8930-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "kostoulhs",
+    "repository": "android_device_samsung_loganreltexx",
+    "target_path": "device/samsung/loganreltexx",
+    "revision": "cm-11.0"
+  }
+]
