@@ -20,6 +20,7 @@ Device Tree For Samsung Galaxy Ace 3 LTE
 This branch is for building OmniRom 4.4 Firmware.
 
 Copyright 2014 - The CyanogenMod Project
+
 Copyright 2014 - OmniROM Project
 
 WORK IN PROGRESS.
